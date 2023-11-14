@@ -8,6 +8,7 @@
 body {font-family: TT Lakes Regular;}
 
 aside {
+    box-shadow: 2px 2px 60px grey;
     position: absolute;
     display: flex;
     flex-direction: column;
